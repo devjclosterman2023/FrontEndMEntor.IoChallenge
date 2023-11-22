@@ -4,9 +4,7 @@
   "description": "myPortfolio",
   "main": "script.js",
   "scripts": {
-    "build": "start"
-  },
-  "scripts": {
+    "build": "start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
